@@ -14,8 +14,7 @@ app.use(morgan('dev'));
 
 app.use(cors());
 
-
-
+// global vars for writing to file later 
 
 let coordinateArray = [];
 
